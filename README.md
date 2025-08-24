@@ -2,11 +2,6 @@
   <img src="https://github.com/Sudoku-Solver/blob/master/assets/thumbnail.png" width="256" height="256">
   <h2 align="center" style="margin-top: -4px !important;">Sudoku Solver: A Fun and Challenging Way to Exercise Your Brain!</h2>
   <p align="center">
-    
-
-    <a href="https://www.python.org/">
-    	<img src="https://img.shields.io/badge/python-v3.8-informational">
-    </a>
   </p>
 </p>
 <p align="center">

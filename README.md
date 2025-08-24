@@ -55,22 +55,6 @@ To run Sudoku Solver, you'll need to have Python and PyGame installed on your sy
 pip install -r requirements.txt
 ```
 
-## Execution:
-- Clone this repository using
-```
-git clone https://github.com/dhhruv/Sudoku-Solver.git
-```
-**OR**
-- Zip Download the Repository and Extract it's contents.
-- Now run the [SudokuGUI](https://github.com/dhhruv/Sudoku-Solver/blob/master/SudokuGUI.py) file directly in your Terminal using
-```
-python SudokuGUI.py
-```
-**OR**
-```
-python3 SudokuGUI.py
-```
-
 ## Conclusion:
 If you're a fan of Sudoku puzzles, Sudoku Solver is the perfect tool to help you solve them quickly and easily. With its powerful algorithm and easy-to-use GUI, you'll be solving puzzles in no time. Plus, Sudoku is a great way to exercise your brain and improve your cognitive abilities, making it a fun and challenging game for people of all ages. So what are you waiting for? Download Sudoku Solver today and start playing!
 

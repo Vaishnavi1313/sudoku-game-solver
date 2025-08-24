@@ -1,10 +1,9 @@
 <p align="center">
-  <img src="https://github.com/dhhruv/Sudoku-Solver/blob/master/assets/thumbnail.png" width="256" height="256">
+  <img src="https://github.com/Sudoku-Solver/blob/master/assets/thumbnail.png" width="256" height="256">
   <h2 align="center" style="margin-top: -4px !important;">Sudoku Solver: A Fun and Challenging Way to Exercise Your Brain!</h2>
   <p align="center">
-    <a href="https://github.com/dhhruv/Sudoku-Solver/blob/master/LICENSE">
-      <img src="https://img.shields.io/badge/license-MIT-informational">
-    </a>
+    
+
     <a href="https://www.python.org/">
     	<img src="https://img.shields.io/badge/python-v3.8-informational">
     </a>
@@ -14,7 +13,6 @@
 	<img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
 </p>
 <p align="center">   
-	<a href="https://dev.to/dhhruv/sudoku-solver-a-visualizer-made-using-backtracking-algorithm-5f0d">
     	<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white">
     </a>
 </p>
